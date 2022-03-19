@@ -1,0 +1,15 @@
+{
+    "nombreApp" : "Observador",
+    "rutas" : [
+        {
+            "ruta" : "lista",
+            "icon" : "list",
+            "texto": "Lista"
+        },
+        {
+            "ruta" : "stream",
+            "icon" : "input",
+            "texto": "Stream"
+        }
+    ]
+}
